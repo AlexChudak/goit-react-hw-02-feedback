@@ -1,0 +1,9 @@
+.Feedback_window {
+  width: 600px;
+  border: 1px solid green;
+}
+
+.button {
+  margin-left: 6px;
+  margin-right: 6px;
+}
